@@ -3,7 +3,7 @@
 React on the front, AWS on the back.
 
 - **Software Engineer at AdKaora** (since Nov 2024) — AWS serverless (Lambda, Step Functions, EventBridge), Python ETL and automation, and the React platform apps on top.
-- **Freelance frontend engineer** (since Dec 2024) — sole developer of a B2B document-AI / OCR platform, in production since Jan 2026: React, TypeScript, Redux, Konva.
+- **Frontend Engineer at a document-AI startup** (freelance, since Dec 2024) — first frontend hire and sole developer of its customer-facing OCR platform, in production since Jan 2026: React, TypeScript, Redux, Konva.
 
 Nearly all of that work lives in private company repositories, so this profile shows only a slice of it. The public repos here are personal projects.
 
