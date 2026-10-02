@@ -1,16 +1,14 @@
-## Hi there 👋
+### Yang Xiang — Full-stack Software Engineer, Milan
 
-<!--
-**yangxdev/yangxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React on the front, AWS on the back.
 
-Here are some ideas to get you started:
+- **Software Engineer at AdKaora** (since Nov 2024) — AWS serverless (Lambda, Step Functions, EventBridge), Python ETL and automation, and the React platform apps on top.
+- **Freelance frontend engineer** (since Dec 2024) — sole developer of a B2B document-AI / OCR platform, in production since Jan 2026: React, TypeScript, Redux, Konva.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nearly all of that work lives in private company repositories, so this profile shows only a slice of it. The public repos here are personal projects.
+
+**Stack:** TypeScript · JavaScript · Python · React · Tailwind CSS · Redux · Vite · AWS · Docker · LocalStack · MongoDB · DynamoDB
+
+**Currently studying:** AWS Solutions Architect Associate (SAA-C03) · Japanese
+
+[yangxdev.com](https://www.yangxdev.com) · [LinkedIn](https://www.linkedin.com/in/yangxng) · yangxdev@gmail.com
